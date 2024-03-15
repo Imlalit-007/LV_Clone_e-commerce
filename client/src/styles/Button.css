@@ -1,0 +1,37 @@
+.custom_btn {
+  border: 1px solid var(--bg-color);
+  color: var(--bg-color);
+  height: 50px;
+  min-width: 240px;
+  border-radius: 100vw;
+  padding-inline: 30px;
+  font-size: 16px;
+  background: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(16px);
+}
+
+.btn_play_pause,
+.btn_mute_unmute {
+  position: absolute;
+  bottom: 10px;
+  height: 35px;
+  width: 35px;
+  color: var(--bg-color);
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 18px;
+  /*background: var(--font-color);*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.btn_play_pause {
+  left: 10px;
+}
+
+.btn_mute_unmute {
+  right: 10px;
+}

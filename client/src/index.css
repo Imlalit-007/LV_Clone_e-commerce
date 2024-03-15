@@ -1,0 +1,29 @@
+@font-face {
+  font-family: Louis-Vuitton-Regular;
+  src: url("assets/fonts/LouisVuitton-Regular.woff2");
+}
+
+@font-face {
+  font-family: Louis-Vuitton-Medium;
+  src: url("assets/fonts/LouisVuitton-Medium.woff2");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Louis-Vuitton-Regular", "Halvetica Neue", Halvetica, Arial,
+    sans-serif;
+  transition: 100ms;
+}
+
+:root {
+  --border-color: #eee;
+  --bg-color: #fff;
+  --font-color: #19110b;
+  --font-regular: "Louis-Vuitton-Regular", "Halvetica Neue", Halvetica, Arial,
+    sans-serif;
+  --font-medium: "Louis-Vuitton-Medium", "Halvetica Neue", Halvetica, Arial,
+    sans-serif;
+}
