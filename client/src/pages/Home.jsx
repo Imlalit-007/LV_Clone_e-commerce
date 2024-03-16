@@ -11,19 +11,19 @@ import ImageAndVideoBox from "../components/ImageAndVideoBox/ImageAndVideoBox.js
 const data = [
   {
     id: 1,
-    img: "/Monogram_Bags_FR_HP_Product_Push_V0306_DI2.webp",
+    img: "images/Monogram_Bags_FR_HP_Product_Push_V0306_DI2.webp",
     title: "Iconic Monogram Bags",
     link: "#",
   },
   {
     id: 2,
-    img: "/Women_Rings_WW_HP_Product_Push_V0308_DI2.webp",
+    img: "images/Women_Rings_WW_HP_Product_Push_V0308_DI2.webp",
     title: "Women's Rings",
     link: "#",
   },
   {
     id: 3,
-    img: "/Masculine_Perfumes_WW_HP_Product_Push_V0308_DI2.webp",
+    img: "images/Masculine_Perfumes_WW_HP_Product_Push_V0308_DI2.webp",
     title: "Masculine Perfumes",
     link: "#",
   },

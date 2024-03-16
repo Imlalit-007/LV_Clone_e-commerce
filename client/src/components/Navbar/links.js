@@ -20,27 +20,27 @@ export const links = [
         label: "For Women",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Women_MM_New_ForWomen_TheLatest_Fev2024_DI3.webp",
+            img: "images/louis-vuitton--Women_MM_New_ForWomen_TheLatest_Fev2024_DI3.webp",
             text: "The Latest",
           },
           {
-            img: "./src/assets/images/louis-vuitton--CATEGORY_CAMPAIGN_IMG02-03_LVCOM_2048x1152_DI3.webp",
+            img: "images/louis-vuitton--CATEGORY_CAMPAIGN_IMG02-03_LVCOM_2048x1152_DI3.webp",
             text: "Spring-Summer 2024 Show",
           },
           {
-            img: "./src/assets/images/louis-vuitton--WOMEN_LV_REMIX_WW_LAUNCH_DI3.jpg",
+            img: "images/louis-vuitton--WOMEN_LV_REMIX_WW_LAUNCH_DI3.jpg",
             text: "LV Remix",
           },
           {
-            img: "./src/assets/images/louis-vuitton--New_MM_For Women_Cruise_2024_DEC23_DI3.webp",
+            img: "images/louis-vuitton--New_MM_For Women_Cruise_2024_DEC23_DI3.webp",
             text: "Cruise 2024 Collection",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Women_MM_New_FlightMode_Sept23_DI3.webp",
+            img: "images/louis-vuitton--Women_MM_New_FlightMode_Sept23_DI3.webp",
             text: "Flight Mode",
           },
           {
-            img: "./src/assets/images/louis-vuitton--NEW_FORWOMEN_THEGO14_OCT23_DI3.webp",
+            img: "images/louis-vuitton--NEW_FORWOMEN_THEGO14_OCT23_DI3.webp",
             text: "The Go- 14",
           },
         ],
@@ -49,31 +49,31 @@ export const links = [
         label: "For Men",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Men_MM_SHOWSS24_February2024_DI3.webp",
+            img: "images/louis-vuitton--Men_MM_SHOWSS24_February2024_DI3.webp",
             text: "Spring-Summer 2024 Show",
           },
           {
-            img: "./src/assets/images/louis-vuitton--New_ForMen_TheLatest_MM_Jan24_DI3.webp",
+            img: "images/louis-vuitton--New_ForMen_TheLatest_MM_Jan24_DI3.webp",
             text: "The Latest",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Men_MM_NewFormal_February2024_DI3.webp",
+            img: "images/louis-vuitton--Men_MM_NewFormal_February2024_DI3.webp",
             text: "New Formal",
           },
           {
-            img: "./src/assets/images/louis-vuitton--New_For Men_LEs Gastons Vuitton_DI3_Fev24.webp",
+            img: "images/louis-vuitton--New_For Men_LEs Gastons Vuitton_DI3_Fev24.webp",
             text: "Les Gustons Vuitton Fine Jewellery",
           },
           {
-            img: "./src/assets/images/louis-vuitton--MEN_MM_LG_SPEEDY_P9_DEC23_DI3.webp",
+            img: "images/louis-vuitton--MEN_MM_LG_SPEEDY_P9_DEC23_DI3.webp",
             text: "Speedy P9",
           },
           {
-            img: "./src/assets/images/louis-vuitton--MEN_SS24_PRECO_NOV23_DI3.webp",
+            img: "images/louis-vuitton--MEN_SS24_PRECO_NOV23_DI3.webp",
             text: "Pre-Collections Spring-Summer 2024",
           },
           {
-            img: "./src/assets/images/louis-vuitton--MEN_SS24_PRECO_LVFALL_SETP23_DI3.webp",
+            img: "images/louis-vuitton--MEN_SS24_PRECO_LVFALL_SETP23_DI3.webp",
             text: "Fall 2023 Collection",
           },
         ],
@@ -82,7 +82,7 @@ export const links = [
         label: "For Baby",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--BABY_COLLECTION_WINTERCAPSULE_DI3.webp",
+            img: "images/louis-vuitton--BABY_COLLECTION_WINTERCAPSULE_DI3.webp",
             text: "Baby Collection",
           },
         ],
@@ -102,27 +102,27 @@ export const links = [
         label: "For Women",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_CAPUCINES_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_CAPUCINES_OCT22_DI3.webp",
             text: "Capucines",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Women_LG_MM_GO_14_DI3.webp",
+            img: "images/louis-vuitton--Women_LG_MM_GO_14_DI3.webp",
             text: "GO- 14",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_TWIST_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_TWIST_OCT22_DI3.webp",
             text: "Twist",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_COUSSIN_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_COUSSIN_OCT22_DI3.webp",
             text: "Coussin",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_DAUPHINE_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_DAUPHINE_OCT22_DI3.webp",
             text: "Dauphine",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_PETITEMALLE_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_PETITEMALLE_OCT22_DI3.webp",
             text: "Petite Malle",
           },
         ],
@@ -157,19 +157,19 @@ export const links = [
         label: "For Men",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Men_MM_LG_Speedy_Starshape_DEC23_DI3.webp",
+            img: "images/louis-vuitton--Men_MM_LG_Speedy_Starshape_DEC23_DI3.webp",
             text: "Speedy P9",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORMEN_KEEPALL_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORMEN_KEEPALL_OCT22_DI3.webp",
             text: "Keepal",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORMEN_TRUNKBAGS_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORMEN_TRUNKBAGS_OCT22_DI3.webp",
             text: "Soft Trunk Bags",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORMEN_CHRISTOPHER_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORMEN_CHRISTOPHER_OCT22_DI3.webp",
             text: "Christopher",
           },
         ],
@@ -212,7 +212,7 @@ export const links = [
         label: "LV Remix",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--WOMEN_LV_REMIX_WW_LAUNCH_DI3.jpg",
+            img: "images/louis-vuitton--WOMEN_LV_REMIX_WW_LAUNCH_DI3.jpg",
             text: "LV Remix",
           },
         ],
@@ -221,7 +221,7 @@ export const links = [
         label: "The GO- 14",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--NEW_FORWOMEN_THEGO14_OCT23_DI3.webp",
+            img: "images/louis-vuitton--NEW_FORWOMEN_THEGO14_OCT23_DI3.webp",
             text: "The Go- 14",
           },
         ],
@@ -230,27 +230,27 @@ export const links = [
         label: "Handbags",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_CAPUCINES_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_CAPUCINES_OCT22_DI3.webp",
             text: "Capucines",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Women_LG_MM_GO_14_DI3.webp",
+            img: "images/louis-vuitton--Women_LG_MM_GO_14_DI3.webp",
             text: "GO- 14",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_TWIST_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_TWIST_OCT22_DI3.webp",
             text: "Twist",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_COUSSIN_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_COUSSIN_OCT22_DI3.webp",
             text: "Coussin",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_DAUPHINE_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_DAUPHINE_OCT22_DI3.webp",
             text: "Dauphine",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORWOMEN_PETITEMALLE_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORWOMEN_PETITEMALLE_OCT22_DI3.webp",
             text: "Petite Malle",
           },
         ],
@@ -311,7 +311,7 @@ export const links = [
         label: "Travel",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--W_Travel_HorizonFamily_OCT23_DI3.webp",
+            img: "images/louis-vuitton--W_Travel_HorizonFamily_OCT23_DI3.webp",
             text: "Horizon Family",
           },
         ],
@@ -331,7 +331,7 @@ export const links = [
         label: "Accessories",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Women_MM_Accessories_TheEssentials_Nov23_DI3.webp",
+            img: "images/louis-vuitton--Women_MM_Accessories_TheEssentials_Nov23_DI3.webp",
             text: "The Essentials",
           },
         ],
@@ -372,27 +372,27 @@ export const links = [
         label: "Fashion Jewellery",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Women_FashionJewelry_ExploreOurSignatures_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Women_FashionJewelry_ExploreOurSignatures_Jan24_DI3.webp",
             text: "Explore Our Signatures",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Women_FashionJewelry_AllFineJewelry_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Women_FashionJewelry_AllFineJewelry_Jan24_DI3.webp",
             text: "All Fashion Jewellery",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Women_FashionJewelry_Earrings_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Women_FashionJewelry_Earrings_Jan24_DI3.webp",
             text: "Earrings",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Women_FashionJewelry_NecklacesandPendants_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Women_FashionJewelry_NecklacesandPendants_Jan24_DI3.webp",
             text: "Necklaces and Pendants",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Women_FashionJewelry_Bracelets_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Women_FashionJewelry_Bracelets_Jan24_DI3.webp",
             text: "Bracelets",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Women_FashionJewelry_Rings_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Women_FashionJewelry_Rings_Jan24_DI3.webp",
             text: "Rings, Brooches and Others",
           },
         ],
@@ -401,11 +401,11 @@ export const links = [
         label: "Ready-To-Wear",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Women_MM_RTW_Look_Selection_November23_DI3.webp",
+            img: "images/louis-vuitton--Women_MM_RTW_Look_Selection_November23_DI3.webp",
             text: "Look Selection",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Women_MM_RTW_Fall-Winter_Essentials_Jun23_DI3.webp",
+            img: "images/louis-vuitton--Women_MM_RTW_Fall-Winter_Essentials_Jun23_DI3.webp",
             text: "Fall-Winter Essentials",
           },
         ],
@@ -443,15 +443,15 @@ export const links = [
         label: "Shoes",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--WOMEN_SHOES_LVTRAINER_MM_DI3.webp",
+            img: "images/louis-vuitton--WOMEN_SHOES_LVTRAINER_MM_DI3.webp",
             text: "LV Trainer",
           },
           {
-            img: "./src/assets/images/louis-vuitton--WOMEN_ROMY_D1598_LVCOM_2048x1152_DI3.webp",
+            img: "images/louis-vuitton--WOMEN_ROMY_D1598_LVCOM_2048x1152_DI3.webp",
             text: "Romy",
           },
           {
-            img: "./src/assets/images/louis-vuitton--WOMEN_SHOES_BLOSSOM_MM_DI3.webp",
+            img: "images/louis-vuitton--WOMEN_SHOES_BLOSSOM_MM_DI3.webp",
             text: "LV Blossom",
           },
         ],
@@ -488,7 +488,7 @@ export const links = [
     label: "Men",
     imageAndText: [
       {
-        img: "./src/assets/images/louis-vuitton--Men_MM_SHOWSS24_February2024_DI3.webp",
+        img: "images/louis-vuitton--Men_MM_SHOWSS24_February2024_DI3.webp",
         text: "Spring-Summer 2024 Show",
       },
     ],
@@ -497,7 +497,7 @@ export const links = [
         label: "New Formal",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Men_MM_NewFormal_February2024_DI3.webp",
+            img: "images/louis-vuitton--Men_MM_NewFormal_February2024_DI3.webp",
             text: "New Formal",
           },
         ],
@@ -506,19 +506,19 @@ export const links = [
         label: "Bags",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Men_MM_LG_Speedy_Starshape_DEC23_DI3.webp",
+            img: "images/louis-vuitton--Men_MM_LG_Speedy_Starshape_DEC23_DI3.webp",
             text: "Speedy P9",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORMEN_KEEPALL_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORMEN_KEEPALL_OCT22_DI3.webp",
             text: "Keepal",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORMEN_TRUNKBAGS_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORMEN_TRUNKBAGS_OCT22_DI3.webp",
             text: "Soft Trunk Bags",
           },
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORMEN_CHRISTOPHER_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORMEN_CHRISTOPHER_OCT22_DI3.webp",
             text: "Christopher",
           },
         ],
@@ -579,7 +579,7 @@ export const links = [
         label: "Shoes",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Men LV Trainers MM_1AC50A.webp",
+            img: "images/louis-vuitton--Men LV Trainers MM_1AC50A.webp",
             text: "LV Trainer",
           },
         ],
@@ -608,11 +608,11 @@ export const links = [
         label: "Accessories",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--MEN_ACCESSORIES_THE_ESSENTIALS_May23_DI3.webp",
+            img: "images/louis-vuitton--MEN_ACCESSORIES_THE_ESSENTIALS_May23_DI3.webp",
             text: "The Essentials",
           },
           {
-            img: "./src/assets/images/louis-vuitton--MEN_EDITORIALISATION_MEN_WINTERTEXTILE_SEPT23_DI3.webp",
+            img: "images/louis-vuitton--MEN_EDITORIALISATION_MEN_WINTERTEXTILE_SEPT23_DI3.webp",
             text: "Winter Textile",
           },
         ],
@@ -647,23 +647,23 @@ export const links = [
         label: "Fashion Jewellery",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Men_FJ_All_Fashion_Jewelry_June23_DI3.webp",
+            img: "images/louis-vuitton--Men_FJ_All_Fashion_Jewelry_June23_DI3.webp",
             text: "All Fashion Jewellery",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Men_FJ_Necklaces_and_Pendants_June23_DI3.webp",
+            img: "images/louis-vuitton--Men_FJ_Necklaces_and_Pendants_June23_DI3.webp",
             text: "Necklaces and Pendants",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Men_FJ_Bracelets_June23_DI3.webp",
+            img: "images/louis-vuitton--Men_FJ_Bracelets_June23_DI3.webp",
             text: "Bracelets",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Men_FJ_Rings_January24_DI3.webp",
+            img: "images/louis-vuitton--Men_FJ_Rings_January24_DI3.webp",
             text: "Rings",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Men_FJ_Earrings_January24_DI3.webp",
+            img: "images/louis-vuitton--Men_FJ_Earrings_January24_DI3.webp",
             text: "Earrings",
           },
         ],
@@ -672,7 +672,7 @@ export const links = [
         label: "Travel",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--BAGS_FORMEN_KEEPALL_OCT22_DI3.webp",
+            img: "images/louis-vuitton--BAGS_FORMEN_KEEPALL_OCT22_DI3.webp",
             text: "Keepal",
           },
         ],
@@ -695,23 +695,23 @@ export const links = [
         label: "Ready-To-Wear",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--MEN_SS24_PRECO_RTW_SeasonalLook_December2023_DI3.webp",
+            img: "images/louis-vuitton--MEN_SS24_PRECO_RTW_SeasonalLook_December2023_DI3.webp",
             text: "Seasonal Selection",
           },
           {
-            img: "./src/assets/images/louis-vuitton--MEN_RTW_LOOK_SELECTION_JANUARY2024_DI3.webp",
+            img: "images/louis-vuitton--MEN_RTW_LOOK_SELECTION_JANUARY2024_DI3.webp",
             text: "Look Selection",
           },
           {
-            img: "./src/assets/images/louis-vuitton--MEN_RTW_LEATHER_JANUARY2024_DI3.webp",
+            img: "images/louis-vuitton--MEN_RTW_LEATHER_JANUARY2024_DI3.webp",
             text: "Leather",
           },
           {
-            img: "./src/assets/images/louis-vuitton--MEN_RTW_DENIM_JANUARY2024_DI3.webp",
+            img: "images/louis-vuitton--MEN_RTW_DENIM_JANUARY2024_DI3.webp",
             text: "Denim",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Men_MM_NewFormal_February2024_DI32.webp",
+            img: "images/louis-vuitton--Men_MM_NewFormal_February2024_DI32.webp",
             text: "Tailoring",
           },
         ],
@@ -751,27 +751,27 @@ export const links = [
         label: "Collections",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--JEWELRY_COLLECTIONS_IDYLLE_OCT22_DI3 (1).webp",
+            img: "images/louis-vuitton--JEWELRY_COLLECTIONS_IDYLLE_OCT22_DI3 (1).webp",
             text: "Blossom Collection",
           },
           {
-            img: "./src/assets/images/louis-vuitton--JEWELRY_COLLECTIONS_LV_VOLT_OCT22_DI3 (1).webp",
+            img: "images/louis-vuitton--JEWELRY_COLLECTIONS_LV_VOLT_OCT22_DI3 (1).webp",
             text: "LV Volt",
           },
           {
-            img: "./src/assets/images/louis-vuitton--JEWELRY_COLLECTIONS_EMPREINTE_OCT22_DI3 (1).webp",
+            img: "images/louis-vuitton--JEWELRY_COLLECTIONS_EMPREINTE_OCT22_DI3 (1).webp",
             text: "Empreinte",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Collections_Les Gastons_Dec23_DI3 (1).webp",
+            img: "images/louis-vuitton--Jewelry_Collections_Les Gastons_Dec23_DI3 (1).webp",
             text: "Les Gastons Vuitton",
           },
           {
-            img: "./src/assets/images/louis-vuitton--JEWELRY_COLLECTIONS_VIVIENNE_OCT22_DI3 (1).webp",
+            img: "images/louis-vuitton--JEWELRY_COLLECTIONS_VIVIENNE_OCT22_DI3 (1).webp",
             text: "Exceptional Collections",
           },
           {
-            img: "./src/assets/images/louis-vuitton--JEWELRY_COLLECTIONS_SILVER_LOCKIT_OCT22_DI3 (1).webp",
+            img: "images/louis-vuitton--JEWELRY_COLLECTIONS_SILVER_LOCKIT_OCT22_DI3 (1).webp",
             text: "Silver Lockit",
           },
         ],
@@ -780,15 +780,15 @@ export const links = [
         label: "Icons",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--JEWELRY_COLLECTIONS_IDYLLE_OCT22_DI3 (1).webp",
+            img: "images/louis-vuitton--JEWELRY_COLLECTIONS_IDYLLE_OCT22_DI3 (1).webp",
             text: "Blossom Collection",
           },
           {
-            img: "./src/assets/images/louis-vuitton--JEWELRY_COLLECTIONS_LV_VOLT_OCT22_DI3 (1).webp",
+            img: "images/louis-vuitton--JEWELRY_COLLECTIONS_LV_VOLT_OCT22_DI3 (1).webp",
             text: "LV Volt",
           },
           {
-            img: "./src/assets/images/louis-vuitton--JEWELRY_COLLECTIONS_EMPREINTE_OCT22_DI3 (1).webp",
+            img: "images/louis-vuitton--JEWELRY_COLLECTIONS_EMPREINTE_OCT22_DI3 (1).webp",
             text: "Empreinte",
           },
         ],
@@ -797,19 +797,19 @@ export const links = [
         label: "Highlights",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Highlights_Latestcreations_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Highlights_Latestcreations_Jan24_DI3.webp",
             text: "Latest Collections",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Highlights_MixMatch_MM_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Highlights_MixMatch_MM_DI3.webp",
             text: "Mix and Match",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Highlights_Couplesselection_MM_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Highlights_Couplesselection_MM_DI3.webp",
             text: "Couples' Selection",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Highlights_Statementcreations_MM_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Highlights_Statementcreations_MM_DI3.webp",
             text: "Statement Creations",
           },
         ],
@@ -818,35 +818,35 @@ export const links = [
         label: "Categories",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Categories_All Fine Jewelry_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Categories_All Fine Jewelry_Jan24_DI3.webp",
             text: "All Fine Jewellery",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Categories_Necklaces Pendants_Fev24_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Categories_Necklaces Pendants_Fev24_DI3.webp",
             text: "Necklaces and Pendants",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Categories_Earrings_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Categories_Earrings_Jan24_DI3.webp",
             text: "Earrings",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Categories_Bracelets_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Categories_Bracelets_Jan24_DI3.webp",
             text: "Bracelets",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Categories_Rings_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Categories_Rings_Jan24_DI3.webp",
             text: "Rings",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Categories_Wedding Bands_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Categories_Wedding Bands_Jan24_DI3.webp",
             text: "Wedding Bands",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Categories_For Men_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Categories_For Men_Jan24_DI3.webp",
             text: "For Men",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_Categories_Others_Jan24_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_Categories_Others_Jan24_DI3.webp",
             text: "Brooches and Cufflinks",
           },
         ],
@@ -855,15 +855,15 @@ export const links = [
         label: "High Jewellery",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_High Jewelry_MM_Deep Time_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_High Jewelry_MM_Deep Time_DI3.webp",
             text: "Louis Vuitton Deep Time",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_High Jewelry_MM_Louis Vuitton Spirit_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_High Jewelry_MM_Louis Vuitton Spirit_DI3.webp",
             text: "Louis Vuitton Spirit",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Jewelry_High Jewelry_MM_Bravery_DI3.webp",
+            img: "images/louis-vuitton--Jewelry_High Jewelry_MM_Bravery_DI3.webp",
             text: "Louis Vuitton Bravery",
           },
         ],
@@ -877,23 +877,23 @@ export const links = [
         label: "World of Watches",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Watches_WoW_High_Watchmaking_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_WoW_High_Watchmaking_June23_DI3.webp",
             text: "High Watchmaking",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Watches_WoW_Tambour_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_WoW_Tambour_June23_DI3.webp",
             text: "Tambour",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Watches_WoW_Tambour_Street_Diver_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_WoW_Tambour_Street_Diver_June23_DI3.webp",
             text: "Tambour Street Diver",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Watches_WoW_Voyager_Skeleton_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_WoW_Voyager_Skeleton_June23_DI3.webp",
             text: "Voyager Skeleton",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Watches_WoW_Tambour_Twenty_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_WoW_Tambour_Twenty_June23_DI3.webp",
             text: "Tambour Twenty",
           },
         ],
@@ -902,27 +902,27 @@ export const links = [
         label: "Traditional Watches",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Watches_WoW_Tambour_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_WoW_Tambour_June23_DI3.webp",
             text: "Tambour",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Watches_WoW_Tambour_Street_Diver_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_WoW_Tambour_Street_Diver_June23_DI3.webp",
             text: "Tambour Street Diver",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Watches_Traditional_Watches_Tambour_Monogram_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_Traditional_Watches_Tambour_Monogram_June23_DI3.webp",
             text: "Tambour Monogram",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Watches_Traditional_Watches_Tambour_Slim_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_Traditional_Watches_Tambour_Slim_June23_DI3.webp",
             text: "Tambour Slim",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Watches_Traditional_Watches_Tambour_Moon_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_Traditional_Watches_Tambour_Moon_June23_DI3.webp",
             text: "Tambour Moon",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Watches_Traditional_Watches_Trunk_Table_Clock_June23_DI3.webp",
+            img: "images/louis-vuitton--Watches_Traditional_Watches_Trunk_Table_Clock_June23_DI3.webp",
             text: "Trunk Table Clock",
           },
         ],
@@ -945,7 +945,7 @@ export const links = [
         label: "Louis Vuitton x AKRIVIA",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--HW_COLLAB_020_LVCOM_2048x1152_DI3.webp",
+            img: "images/louis-vuitton--HW_COLLAB_020_LVCOM_2048x1152_DI3.webp",
             text: "LVRR-0 1 Chronographe à Sonnerie",
           },
         ],
@@ -959,7 +959,7 @@ export const links = [
         label: "Highlights",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--Perfumes_Highlights_Myriad_Oct23_DI3.webp",
+            img: "images/louis-vuitton--Perfumes_Highlights_Myriad_Oct23_DI3.webp",
             text: "Myriad, the new Extrait",
           },
         ],
@@ -968,15 +968,15 @@ export const links = [
         label: "Icons",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--FRAGRANCES_ICONS_ATTRAPE_REVES_OCT22_DI3.webp",
+            img: "images/louis-vuitton--FRAGRANCES_ICONS_ATTRAPE_REVES_OCT22_DI3.webp",
             text: "Attrape Rêves",
           },
           {
-            img: "./src/assets/images/louis-vuitton--FRAGRANCES_ICONS_lMMENSITE_DEC22_DI3.webp",
+            img: "images/louis-vuitton--FRAGRANCES_ICONS_lMMENSITE_DEC22_DI3.webp",
             text: "L'Immensité",
           },
           {
-            img: "./src/assets/images/louis-vuitton--Perfumes_MM_Icons_OmbreNomade_Apr23_DI3.webp",
+            img: "images/louis-vuitton--Perfumes_MM_Icons_OmbreNomade_Apr23_DI3.webp",
             text: "Ombre Nomade",
           },
         ],
@@ -1030,7 +1030,7 @@ export const links = [
         label: "Highlights",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--AOL_2023_CAMPAIGN_MM_Mar23_DI3.webp",
+            img: "images/louis-vuitton--AOL_2023_CAMPAIGN_MM_Mar23_DI3.webp",
             text: "Art of Living Campaign",
           },
         ],
@@ -1039,7 +1039,7 @@ export const links = [
         label: "Trunks and Travels",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--W_Travel_HorizonFamily_OCT23_DI3.webp",
+            img: "images/louis-vuitton--W_Travel_HorizonFamily_OCT23_DI3.webp",
             text: "Horizon Family",
           },
         ],
@@ -1073,11 +1073,11 @@ export const links = [
         label: "Sport and Lifestyle",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--AOL_LIFESTYLE_VIVIENNE_DOLLS_April23_DI3.webp",
+            img: "images/louis-vuitton--AOL_LIFESTYLE_VIVIENNE_DOLLS_April23_DI3.webp",
             text: "Lifestyle and Vivienne Dolls",
           },
           {
-            img: "./src/assets/images/louis-vuitton--AOL_LIFESTYLE_SPORTGAME_April23_DI3.jpg",
+            img: "images/louis-vuitton--AOL_LIFESTYLE_SPORTGAME_April23_DI3.jpg",
             text: "Sport and Games",
           },
         ],
@@ -1086,7 +1086,7 @@ export const links = [
         label: "Home",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--AOL_HOME_OBJETSNOMADE_April23_DI3.webp",
+            img: "images/louis-vuitton--AOL_HOME_OBJETSNOMADE_April23_DI3.webp",
             text: "OBJETS NOMADES - FURNITURE COLLECTION",
           },
         ],
@@ -1109,7 +1109,7 @@ export const links = [
         label: "Books and Stationery",
         imageAndText: [
           {
-            img: "./src/assets/images/louis-vuitton--AOL_BOOKS_LVTROPHY_OCT22_DI3.webp",
+            img: "images/louis-vuitton--AOL_BOOKS_LVTROPHY_OCT22_DI3.webp",
             text: "Louis Vuitton Trophy Trunks",
           },
         ],
